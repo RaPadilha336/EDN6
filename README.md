@@ -49,6 +49,7 @@ Faz uma requisição à API ViaCEP.
 Exibe os dados de endereço: logradouro, bairro, cidade e estado.
 
 Valida se o CEP existe ou se foi digitado incorretamente.
+
 **4. Cotação de Moeda Estrangeira**
 Utiliza a API AwesomeAPI para:
 
